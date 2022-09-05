@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  ../../packages/components:
+    specifiers:
+      '@xht/hooks': workspace:*
+    dependencies:
+      '@xht/hooks': link:../hooks
+
+  ../../packages/hooks:
+    specifiers: {}
