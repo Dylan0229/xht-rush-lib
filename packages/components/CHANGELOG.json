@@ -1,0 +1,17 @@
+{
+  "name": "@xht/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@xht/components_v1.0.1",
+      "date": "Mon, 05 Sep 2022 14:27:04 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "修改components"
+          }
+        ]
+      }
+    }
+  ]
+}
