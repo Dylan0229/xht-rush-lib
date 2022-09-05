@@ -1,0 +1,17 @@
+{
+  "name": "@xht/hooks",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@xht/hooks_v1.0.1",
+      "date": "Mon, 05 Sep 2022 14:28:27 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "change hooks "
+          }
+        ]
+      }
+    }
+  ]
+}
