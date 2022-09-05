@@ -2,6 +2,18 @@
   "name": "@xht/components",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "@xht/components_v1.0.3",
+      "date": "Mon, 05 Sep 2022 14:31:25 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "change components"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@xht/components_v1.0.2",
       "date": "Mon, 05 Sep 2022 14:28:27 GMT",
