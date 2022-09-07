@@ -2,6 +2,23 @@
   "name": "@xht/components",
   "entries": [
     {
+      "version": "2.0.0",
+      "tag": "@xht/components_v2.0.0",
+      "date": "Wed, 07 Sep 2022 16:14:21 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "新增组件"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@xht/hooks\" to `2.0.0`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.5",
       "tag": "@xht/components_v1.0.5",
       "date": "Wed, 07 Sep 2022 12:10:12 GMT",

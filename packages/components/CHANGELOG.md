@@ -1,6 +1,13 @@
 # Change Log - @xht/components
 
-This log was last generated on Wed, 07 Sep 2022 12:10:12 GMT and should not be manually modified.
+This log was last generated on Wed, 07 Sep 2022 16:14:21 GMT and should not be manually modified.
+
+## 2.0.0
+Wed, 07 Sep 2022 16:14:21 GMT
+
+### Breaking changes
+
+- 新增组件
 
 ## 1.0.5
 Wed, 07 Sep 2022 12:10:12 GMT
