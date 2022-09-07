@@ -3,13 +3,35 @@
   "version": "1.0.5",
   "description": "",
   "main": "index.js",
+  "type":"module",
+  "types":"./dist/index.d.ts",
+  "module":"./dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build":"rollup -c"
   },
+  "files":[
+    "dist"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@xht/hooks": "workspace:*"
+    "react":"~18.2.0",
+    "react-dom":"~18.2.0",
+    "classnames":"~2.3.1",
+    "@tanstack/react-query":"~4.2.3",
+    "@headlessui/react":"~1.7.0",
+    "@heroicons/react":"~2.0.10",
+    "@xht/hooks":"workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "~18.0.18",
+    "@types/react-dom": "~18.0.6",
+    "typescript": "~4.8.2",
+    "@swc/core": "~1.2.248",
+    "@rollup/plugin-typescript": "~8.5.0",
+    "tslib": "~2.4.0",
+    "rollup": "~2.79.0",
+    "rollup-plugin-swc": "~0.2.1"
   }
 }
